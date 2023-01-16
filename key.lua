@@ -1,2 +1,2 @@
-local link = "https://pastebin.com/raw/ayKcZy2q"
+local link = "https://pastebin.com/raw/thmGBHZ9"
 return link
